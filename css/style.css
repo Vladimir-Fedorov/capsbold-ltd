@@ -90,6 +90,7 @@ body {
   width: 100%;
   background: radial-gradient(50% 50% at 50% 50%, #252E42 0%, #161C2E 100%);
   padding: 162px 0 50px;
+  min-height: 100vh;
   color: #ffffff;
 }
 
